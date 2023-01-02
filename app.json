@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "afrika-offline",
-    "slug": "afrika-offline",
-    "version": "1.0.0",
+    "name": "Afrikka",
+    "slug": "afrika_app",
+    "version": "1.0.2",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -18,7 +18,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.afrika.afrika-app"
     },
     "android": {
       "adaptiveIcon": {
@@ -28,6 +29,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5b8df9ae-f903-46e2-80d3-c57383a97b94"
+      }
     }
   }
 }

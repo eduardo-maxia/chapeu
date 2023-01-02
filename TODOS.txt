@@ -1,0 +1,12 @@
+1 - Resolvedor de conflitos (cancelar ultimo ponto, ponto atual, consegui acertar a ultima palavra mas nao deu tempo clicar)
+* - Tutorial
+* - Melhorar som
+* - Melhorar logo
+2 - Reset Game (create screen)
+2 - Splash screen
+3 - Guardar sessão com app fechado
+4 - Settings
+5 - Palavras aleatórias
+6 - Resolvedor de palavras iguais
+7 - Resolvedor de nomes iguais
+8 - Constraints de nome (garantir uma palavra só)
